@@ -14,7 +14,7 @@ function App() {
       </nav>
 
       <main className="text-box">
-        <p>Bienvenue sur le site</p>
+        <p>Bienvenue sur le site de Cyrielle</p>
       </main>
 
       <footer>Développé par Cyrielle</footer>
